@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Python38\\python.exe"
+    "python.pythonPath": "D:\\PythonLearning\\ePython\\env\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
