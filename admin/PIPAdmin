@@ -1,0 +1,11 @@
+pip install requests
+pip show requests
+pip uninstall requests
+pip list
+
+pip freeze > requirements.txt
+pip install -r requirements.txt
+pip install --upgrade -r requirements.txt
+
+pip uninstall -r requirements.txt -y
+

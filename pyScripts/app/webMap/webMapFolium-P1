@@ -1,3 +1,2 @@
 import folium
-folium.Map(location=[45.5236, -122.6750],
-tiles='mapbox',API_key='pk.eyJ1IjoibmVuOXRlbjEwIiwiYSI6ImNrYTE0ZjFmczB4a2sza283MG96cjBoZ3IifQ.sfFamqdPieddg_makTpDbg')    
+folium.Map(location=[45.5236, -122.6750])   
